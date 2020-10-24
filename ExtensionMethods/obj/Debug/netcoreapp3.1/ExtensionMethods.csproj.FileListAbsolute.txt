@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.exe
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.deps.json
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\bin\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.dll
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.pdb
+C:\ProgramasCSharp\ConceitoDeExtensionMethods\ExtensionMethods\ExtensionMethods\obj\Debug\netcoreapp3.1\ExtensionMethods.genruntimeconfig.cache
